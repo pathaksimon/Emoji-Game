@@ -1,0 +1,168 @@
+.bg-container {
+  background-color: #9ba9eb;
+  min-height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.card {
+  width: 80%;
+}
+
+.card1 {
+  background-color: #5763a5;
+  width: 100%;
+  margin-bottom: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card2 {
+  background-color: #5763a5;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 30px;
+  margin-bottom: 30px;
+}
+
+.password-manager {
+  width: 35%;
+}
+
+.paras {
+  height: 28px;
+  width: 28px;
+  background-color: white;
+  border: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.website-photo {
+  width: 80%;
+}
+
+.website {
+  display: flex;
+  margin: 5px;
+  margin-bottom: 25px;
+}
+
+.Website-input {
+  height: 28px;
+}
+
+.addPassword {
+  background-color: #454f84;
+  width: 40%;
+  height: 270px;
+  margin-left: 30px;
+  padding-left: 20px;
+}
+
+.bitta {
+  background-color: #0b69ff;
+  color: white;
+}
+
+.first {
+  width: 90%;
+  margin-bottom: 10px;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+.second {
+  width: 100%;
+  color: white;
+}
+
+.paras1 {
+  display: flex;
+  flex-direction: column;
+}
+
+.website123 {
+  display: flex;
+  margin-top: 25px;
+}
+
+.melvin {
+  width: 60%;
+  height: 300px;
+  margin: auto;
+}
+
+.melvin-photo {
+  min-width: 100%;
+
+  display: flex;
+}
+
+.lista {
+  height: 90px;
+  width: 180px;
+  border: 1px solid black;
+  list-style-type: none;
+  margin: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.ul {
+  display: flex;
+  padding-left: 0px;
+
+  margin-left: auto;
+}
+
+.horizontal {
+  width: 90%;
+}
+
+.auto {
+  margin-left: auto;
+  margin-right: 30px;
+}
+
+.bitta12 {
+  height: 35px;
+  width: 35px;
+  background-color: transparent;
+  border: 0px;
+}
+
+.bin-photo {
+  width: 90%;
+}
+
+.lepru {
+  display: flex;
+  flex-direction: column;
+}
+
+.paragraph {
+  background-color: bisque;
+  line-height: 0px;
+}
+.p2 {
+  margin-top: 0px;
+  line-height: 0px;
+}
+
+.manager-photo {
+  height: 20px;
+  width: 15px;
+}
+
+.staring {
+  height: 10px;
+  width: 40px;
+}
